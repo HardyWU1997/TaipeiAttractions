@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">base</string>
+
+    <!-- view -->
+    <string name="floating_action_button">FloatingActionButton</string>
+
+    <!--error message -->
+    <string name="permission_error">执行勤务需要您的位置权限！ \n请您前往设定页面进行设定！</string>
+    <string name="google_map_error">开启Google地图失败，请确认您的手机有google地图功能！</string>
+    <string name="network_error">无法连线，请确认网路状态！</string>
+
+    <!-- confirm message -->
+    <string name="logout_confirm">确定要登出吗？</string>
+
+    <!-- dialog -->
+    <string name="dialog_title">提示</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_confirm">确定</string>
+    <string name="dialog_more">下次再说</string>
+    <string name="dialog_retry">重试</string>
+</resources>

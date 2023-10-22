@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guía de atracciones de Taipei</string>
+
+    <!-- error message -->
+    <string name="empty_data">No se encontró información</string>
+    <string name="unknown_error">Error desconocido, ¡inténtalo de nuevo más tarde!</string>
+
+    <string name="activity_main_choose_language">Por favor seleccione idioma</string>
+
+    <!-- fragment_attraction -->
+    <string name="fragment_attraction_title">Atracciones de Taipéi</string>
+    <string name="fragment_attraction_get_attraction_error">No se pudieron obtener datos：</string>
+
+    <!-- fragment_attraction_detail -->
+    <string name="fragment_attraction_detail_title">Atracciones de Taipéi</string>
+
+    <!-- fragment_attraction_web_view -->
+    <string name="fragment_attraction_web_view_error">La página web no pudo cargarse：</string>
+
+    <!-- language -->
+    <string name="language_chinese_tw">chino tradicional</string>
+    <string name="language_chinese_ch">Chino simplificado</string>
+    <string name="language_en">Inglés</string>
+    <string name="language_ja">japonés</string>
+    <string name="language_ko">lenguaje Koreano</string>
+    <string name="language_es">español</string>
+    <string name="language_id">indonesio</string>
+    <string name="language_th">tailandés</string>
+    <string name="language_vi">vietnamita</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">base</string>
+
+    <!-- view -->
+    <string name="floating_action_button">FloatingActionButton</string>
+
+    <!--error message -->
+    <string name="permission_error">Your location permission is required to perform duties! \nPlease go to the settings page to set it！</string>
+    <string name="google_map_error">Failed to open Google Maps, please make sure your phone has Google Maps function！</string>
+    <string name="network_error">Unable to connect, please confirm network status！</string>
+
+    <!-- confirm message -->
+    <string name="logout_confirm">Are you sure you want to log out？</string>
+
+    <!-- dialog -->
+    <string name="dialog_title">tip</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_more">Next time</string>
+    <string name="dialog_retry">Retry</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">base</string>
+
+    <!-- view -->
+    <string name="floating_action_button">FloatingActionButton</string>
+
+    <!--error message -->
+    <string name="permission_error">Sự cho phép vị trí của bạn là cần thiết để thực hiện nhiệm vụ! \nHãy vào trang cài đặt để thiết lập！</string>
+    <string name="google_map_error">Không mở được Google Maps, vui lòng đảm bảo điện thoại của bạn có chức năng Google Maps！</string>
+    <string name="network_error">Không thể kết nối, vui lòng xác nhận trạng thái mạng！</string>
+
+    <!-- confirm message -->
+    <string name="logout_confirm">Bạn có chắc chắn bạn muốn thoát？</string>
+
+    <!-- dialog -->
+    <string name="dialog_title">gợi ý</string>
+    <string name="dialog_cancel">Hủy bỏ</string>
+    <string name="dialog_confirm">Chắc chắn</string>
+    <string name="dialog_more">lần tới</string>
+    <string name="dialog_retry">Thử lại</string>
+</resources>

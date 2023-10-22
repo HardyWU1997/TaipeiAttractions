@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">base</string>
+
+    <!-- view -->
+    <string name="floating_action_button">FloatingActionButton</string>
+
+    <!--error message -->
+    <string name="permission_error">ต้องได้รับอนุญาตจากตำแหน่งของคุณเพื่อปฏิบัติหน้าที่! \nโปรดไปที่หน้าการตั้งค่าเพื่อตั้งค่า！</string>
+    <string name="google_map_error">ไม่สามารถเปิด Google Maps ได้ โปรดตรวจสอบให้แน่ใจว่าโทรศัพท์ของคุณมีฟังก์ชัน Google Maps！</string>
+    <string name="network_error">ไม่สามารถเชื่อมต่อได้ โปรดยืนยันสถานะเครือข่าย！</string>
+
+    <!-- confirm message -->
+    <string name="logout_confirm">คุณแน่ใจว่าคุณต้องการที่จะออกจากระบบ？</string>
+
+    <!-- dialog -->
+    <string name="dialog_title">คำใบ้</string>
+    <string name="dialog_cancel">ยกเลิก</string>
+    <string name="dialog_confirm">แน่นอน</string>
+    <string name="dialog_more">คราวหน้า</string>
+    <string name="dialog_retry">ลองอีกครั้ง</string>
+</resources>

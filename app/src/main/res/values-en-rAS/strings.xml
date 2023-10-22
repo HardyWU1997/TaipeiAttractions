@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taipei Attractions Guide</string>
+
+    <!-- error message -->
+    <string name="empty_data">No information found</string>
+    <string name="unknown_error">Unknown error, please try again later!</string>
+
+    <string name="activity_main_choose_language">Please select language</string>
+
+    <!-- fragment_attraction -->
+    <string name="fragment_attraction_title">Taipei attractions</string>
+    <string name="fragment_attraction_get_attraction_error">Failed to obtain data：</string>
+
+    <!-- fragment_attraction_detail -->
+    <string name="fragment_attraction_detail_title">Taipei attractions</string>
+
+    <!-- fragment_attraction_web_view -->
+    <string name="fragment_attraction_web_view_error">Web page failed to load：</string>
+
+    <!-- language -->
+    <string name="language_chinese_tw">traditional Chinese</string>
+    <string name="language_chinese_ch">Simplified Chinese</string>
+    <string name="language_en">English</string>
+    <string name="language_ja">Japanese</string>
+    <string name="language_ko">Korean language</string>
+    <string name="language_es">spanish</string>
+    <string name="language_id">Indonesian</string>
+    <string name="language_th">Thai</string>
+    <string name="language_vi">Vietnamese</string>
+</resources>

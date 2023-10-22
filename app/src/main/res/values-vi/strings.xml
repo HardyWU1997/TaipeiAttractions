@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hướng dẫn tham quan Đài Bắc</string>
+
+    <!-- error message -->
+    <string name="empty_data">Không tìm thấy thông tin</string>
+    <string name="unknown_error">Lỗi không xác định, vui lòng thử lại sau！</string>
+
+    <string name="activity_main_choose_language">Vui lòng chọn ngôn ngữ</string>
+
+    <!-- fragment_attraction -->
+    <string name="fragment_attraction_title">Điểm tham quan Đài Bắc</string>
+    <string name="fragment_attraction_get_attraction_error">Không thể lấy được dữ liệu：</string>
+
+    <!-- fragment_attraction_detail -->
+    <string name="fragment_attraction_detail_title">Điểm tham quan Đài Bắc</string>
+
+    <!-- fragment_attraction_web_view -->
+    <string name="fragment_attraction_web_view_error">Trang web không tải được：</string>
+
+    <!-- language -->
+    <string name="language_chinese_tw">truyền thống Trung Quốc</string>
+    <string name="language_chinese_ch">Tiếng Trung giản thể</string>
+    <string name="language_en">Tiếng Anh</string>
+    <string name="language_ja">tiếng Nhật</string>
+    <string name="language_ko">ngôn ngữ Hàn Quốc</string>
+    <string name="language_es">người Tây Ban Nha</string>
+    <string name="language_id">tiếng Indonesia</string>
+    <string name="language_th">tiếng Thái</string>
+    <string name="language_vi">Tiếng Việt</string>
+</resources>

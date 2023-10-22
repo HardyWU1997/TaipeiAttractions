@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">base</string>
+
+    <!-- view -->
+    <string name="floating_action_button">FloatingActionButton</string>
+
+    <!--error message -->
+    <string name="permission_error">任務を遂行するには位置許可が必要です! \n設定ページに移動してセットアップしてください！</string>
+    <string name="google_map_error">Google マップを開けませんでした。携帯電話に Google マップ機能があることを確認してください！</string>
+    <string name="network_error">接続できません。ネットワークのステータスを確認してください！</string>
+
+    <!-- confirm message -->
+    <string name="logout_confirm">ログアウトしてもよろしいですか？</string>
+
+    <!-- dialog -->
+    <string name="dialog_title">ヒント</string>
+    <string name="dialog_cancel">キャンセル</string>
+    <string name="dialog_confirm">もちろん</string>
+    <string name="dialog_more">次回</string>
+    <string name="dialog_retry">リトライ</string>
+</resources>

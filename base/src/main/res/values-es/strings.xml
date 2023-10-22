@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">base</string>
+
+    <!-- view -->
+    <string name="floating_action_button">FloatingActionButton</string>
+
+    <!--error message -->
+    <string name="permission_error">¡Se requiere su permiso de ubicación para realizar tareas! \nVaya a la página de configuración para configurar！</string>
+    <string name="google_map_error">No se pudo abrir Google Maps, asegúrese de que su teléfono tenga la función Google Maps！</string>
+    <string name="network_error">No se puede conectar, confirme el estado de la red！</string>
+
+    <!-- confirm message -->
+    <string name="logout_confirm">¿Está seguro de que desea cerrar sesión?？</string>
+
+    <!-- dialog -->
+    <string name="dialog_title">pista</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_confirm">confirmar</string>
+    <string name="dialog_more">Nos vemos la próxima vez</string>
+    <string name="dialog_retry">Rever</string>
+</resources>

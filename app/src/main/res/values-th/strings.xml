@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">คู่มือสถานที่ท่องเที่ยวไทเป</string>
+
+    <!-- error message -->
+    <string name="empty_data">ไม่พบข้อมูล</string>
+    <string name="unknown_error">เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ โปรดลองอีกครั้งในภายหลัง！</string>
+
+
+    <string name="activity_main_choose_language">กรุณาเลือกภาษา</string>
+    <!-- fragment_attraction -->
+    <string name="fragment_attraction_title">สถานที่ท่องเที่ยวของไทเป</string>
+    <string name="fragment_attraction_get_attraction_error">ไม่สามารถรับข้อมูลได้：</string>
+
+    <!-- fragment_attraction_detail -->
+    <string name="fragment_attraction_detail_title">สถานที่ท่องเที่ยวของไทเป</string>
+
+    <!-- fragment_attraction_web_view -->
+    <string name="fragment_attraction_web_view_error">ไม่สามารถโหลดหน้าเว็บได้：</string>
+
+    <!-- language -->
+    <string name="language_chinese_tw">จีนดั้งเดิม</string>
+    <string name="language_chinese_ch">จีนตัวย่อ</string>
+    <string name="language_en">ภาษาอังกฤษ</string>
+    <string name="language_ja">ญี่ปุ่น</string>
+    <string name="language_ko">ภาษาเกาหลี</string>
+    <string name="language_es">สเปน</string>
+    <string name="language_id">ชาวอินโดนีเซีย</string>
+    <string name="language_th">แบบไทย</string>
+    <string name="language_vi">ภาษาเวียดนาม</string>
+</resources>

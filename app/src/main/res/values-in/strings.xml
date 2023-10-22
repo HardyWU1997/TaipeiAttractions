@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panduan Atraksi Taipei</string>
+
+    <!-- error message -->
+    <string name="empty_data">Tidak ada informasi yang ditemukan</string>
+    <string name="unknown_error">Kesalahan tidak diketahui, coba lagi nanti!</string>
+
+    <string name="activity_main_choose_language">Silakan pilih bahasa</string>
+
+    <!-- fragment_attraction -->
+    <string name="fragment_attraction_title">Atraksi Taipei</string>
+    <string name="fragment_attraction_get_attraction_error">Gagal mendapatkan data：</string>
+
+    <!-- fragment_attraction_detail -->
+    <string name="fragment_attraction_detail_title">Atraksi Taipei</string>
+
+    <!-- fragment_attraction_web_view -->
+    <string name="fragment_attraction_web_view_error">Halaman web gagal dimuat：</string>
+
+    <!-- language -->
+    <string name="language_chinese_tw">Cina tradisional</string>
+    <string name="language_chinese_ch">Cina disederhanakan</string>
+    <string name="language_en">Bahasa inggris</string>
+    <string name="language_ja">Jepang</string>
+    <string name="language_ko">bahasa Korea</string>
+    <string name="language_es">Orang Spanyol</string>
+    <string name="language_id">bahasa Indonesia</string>
+    <string name="language_th">Thai</string>
+    <string name="language_vi">Orang Vietnam</string>
+</resources>

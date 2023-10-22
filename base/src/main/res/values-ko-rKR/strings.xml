@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">base</string>
+
+    <!-- view -->
+    <string name="floating_action_button">FloatingActionButton</string>
+
+    <!--error message -->
+    <string name="permission_error">업무를 수행하려면 위치 권한이 필요합니다! \n설정하려면 설정 페이지로 이동하세요！</string>
+    <string name="google_map_error">Google 지도를 열 수 없습니다. 휴대전화에 Google 지도 기능이 있는지 확인하세요！</string>
+    <string name="network_error">연결할 수 없습니다. 네트워크 상태를 확인하세요！</string>
+
+    <!-- confirm message -->
+    <string name="logout_confirm">정말로 로그아웃하시겠습니까？</string>
+
+    <!-- dialog -->
+    <string name="dialog_title">힌트</string>
+    <string name="dialog_cancel">취소</string>
+    <string name="dialog_confirm">확인하다</string>
+    <string name="dialog_more">다음번</string>
+    <string name="dialog_retry">다시 해 보다</string>
+</resources>

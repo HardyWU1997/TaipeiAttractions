@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/attractionFragment">
+
+    <fragment
+        android:id="@+id/attractionFragment"
+        android:name="tw.hardy.taipeiattractions.ui.main.attraction.AttractionFragment"
+        android:label="fragment_attractions"
+        tools:layout="@layout/fragment_attractions" >
+        <action
+            android:id="@+id/action_attractionFragment_to_attractionDetailFragment"
+            app:destination="@id/attractionDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/attractionDetailFragment"
+        android:name="tw.hardy.taipeiattractions.ui.main.attraction.detail.AttractionDetailFragment"
+        android:label="fragment_attraction_detail"
+        tools:layout="@layout/fragment_attraction_detail" >
+        <action
+            android:id="@+id/action_attractionDetailFragment_to_attractionWebViewFragment"
+            app:destination="@id/attractionWebViewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/attractionWebViewFragment"
+        android:name="tw.hardy.taipeiattractions.ui.main.attraction.webview.AttractionWebViewFragment"
+        android:label="fragment_attraction_web_view"
+        tools:layout="@layout/fragment_attraction_web_view" />
+</navigation>

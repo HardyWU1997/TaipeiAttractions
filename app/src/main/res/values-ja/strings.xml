@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">台北観光スポットガイド</string>
+
+    <!-- error message -->
+    <string name="empty_data">情報が見つかりませんでした</string>
+    <string name="unknown_error">不明なエラーです。後でもう一度お試しください。</string>
+
+    <string name="activity_main_choose_language">言語を選択してください</string>
+
+    <!-- fragment_attraction -->
+    <string name="fragment_attraction_title">台北の観光スポット</string>
+    <string name="fragment_attraction_get_attraction_error">データの取得に失敗しました：</string>
+
+    <!-- fragment_attraction_detail -->
+    <string name="fragment_attraction_detail_title">台北の観光スポット</string>
+
+    <!-- fragment_attraction_web_view -->
+    <string name="fragment_attraction_web_view_error">Web ページの読み込みに失敗しました：</string>
+
+    <!-- language -->
+    <string name="language_chinese_tw">繁体字中国語</string>
+    <string name="language_chinese_ch">簡体字中国語</string>
+    <string name="language_en">英語</string>
+    <string name="language_ja">日本語</string>
+    <string name="language_ko">韓国語</string>
+    <string name="language_es">スペイン語</string>
+    <string name="language_id">インドネシア語</string>
+    <string name="language_th">タイ語</string>
+    <string name="language_vi">ベトナム語</string>
+</resources>

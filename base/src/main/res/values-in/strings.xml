@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">base</string>
+
+    <!-- view -->
+    <string name="floating_action_button">FloatingActionButton</string>
+
+    <!--error message -->
+    <string name="permission_error">Izin lokasi Anda diperlukan untuk melakukan tugas! \nSilakan buka halaman pengaturan untuk melakukan pengaturan！</string>
+    <string name="google_map_error">Gagal membuka Google Maps, pastikan ponsel Anda memiliki fungsi Google Maps！</string>
+    <string name="network_error">Tidak dapat terhubung, harap konfirmasi status jaringan！</string>
+
+    <!-- confirm message -->
+    <string name="logout_confirm">Apakah Anda yakin ingin logout？</string>
+
+    <!-- dialog -->
+    <string name="dialog_title">petunjuk</string>
+    <string name="dialog_cancel">Membatalkan</string>
+    <string name="dialog_confirm">Tentu</string>
+    <string name="dialog_more">lain kali</string>
+    <string name="dialog_retry">Mencoba kembali</string>
+</resources>

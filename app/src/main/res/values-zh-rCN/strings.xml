@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">台北景点指南</string>
+
+    <!-- error message -->
+    <string name="empty_data">查无资料</string>
+    <string name="unknown_error">未知错误，请稍后再试！</string>
+
+    <string name="activity_main_choose_language">请选择语言</string>
+
+    <!-- fragment_attraction -->
+    <string name="fragment_attraction_title">台北景点</string>
+    <string name="fragment_attraction_get_attraction_error">取得资料失败：</string>
+
+    <!-- fragment_attraction_detail -->
+    <string name="fragment_attraction_detail_title">台北景点</string>
+
+    <!-- fragment_attraction_web_view -->
+    <string name="fragment_attraction_web_view_error">网页载入失败：</string>
+
+    <!-- language -->
+    <string name="language_chinese_tw">繁体中文</string>
+    <string name="language_chinese_ch">简体中文</string>
+    <string name="language_en">英文</string>
+    <string name="language_ja">日文</string>
+    <string name="language_ko">朝鲜语</string>
+    <string name="language_es">西班牙文</string>
+    <string name="language_id">印尼文</string>
+    <string name="language_th">泰文</string>
+    <string name="language_vi">越南文</string>
+</resources>
